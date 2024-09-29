@@ -1,0 +1,1303 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav{
+    width: Fill (1,440px)px;
+height: Hug (88px)px;
+padding: 16px 160px 16px 260px;
+gap: 0px;
+border: 0px 0px 1px 0px;
+justify: space-between;
+opacity: 0px;
+
+}
+.cyber{
+    margin-top: 1rem;
+}
+
+
+
+.searchbtn{
+    display: inline-block;
+    position: relative;
+width:  Fixed (372px)px;
+height: Fixed (56px)px;
+
+padding: 10px 0px 0px 0px;
+gap: 8px;
+radius:px;
+opacity: 0px;
+margin-top: 0.4rem;
+background-color: #F5F5F5;
+
+}
+.searchbtn input{
+    width: 250px;
+    margin-top: -1rem;
+    padding: 10px 10px 10px 40px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: url('imagess/Vector se.png') no-repeat 10px center;
+    background-size: 20px 20px;
+    
+
+}
+.burger{
+    visibility: hidden;
+}
+.searchbtn input:focus{
+outline: none;
+}
+.searr{
+    margin-top: 0rem;
+    margin-bottom: rem;
+    margin-left: 1rem;
+    padding-left: 1rem;
+    color: #656565;
+
+}
+.navbar{
+    width: Hug (369px)px;
+height: Hug (19px)px;
+gap: 60px;
+opacity: 0px;
+
+margin-top: 1rem;
+}
+.home:hover{
+    color: bisque;
+}
+
+.home{
+    width: 46px;
+height: 19px;
+gap: 0px;
+opacity: 0px;
+padding-right: 3rem;
+color: black;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+text-align: left;
+text-decoration: solid;
+}
+.about{
+    width: 47px;
+height: 19px;
+gap: 0px;
+opacity: 0.3px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+text-align: left;
+ padding-right: 3rem;
+ color: rgb(186, 184, 184);
+ text-decoration: solid;
+
+}
+.about:hover{
+    color: bisque;
+
+}
+.Contact{
+    padding-right: 3rem;
+    color: rgb(186, 184, 184);
+
+    text-decoration: solid;
+
+}
+.Contact:hover{
+    color: bisque;
+
+}
+.blog{
+    
+    color: rgb(186, 184, 184);
+    text-decoration: solid;
+
+
+
+}
+.blog:hover{
+    color: bisque;
+
+}
+.nav{
+    display: flex;
+    gap: 5%;
+}
+.photodiv{
+    width: Hug (144px)px;
+margin-top: 1rem;
+    height: Hug (32px)px;
+gap: 24px;
+opacity: 0px;
+padding-left: 2rem;
+}
+.fav{
+    padding-right: 1rem;
+
+    height: 1rem;
+
+}
+.poeple{
+    padding-right: 1rem;
+    height: 1rem;
+
+
+}
+.cart{
+    padding-right: 1rem;
+height: 1rem;
+
+}
+
+
+.banner{
+    width: Fill (1,440px)px;
+height: Hug (632px)px;
+padding: 0px 160px 0px 160px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+background: linear-gradient(90.7deg, #211C24 0.64%, #211C24 101%);
+
+}
+.beyond{
+    display: flex;
+}
+.leftdiv{
+    width: Fill (714px)px;
+height: Hug (256px)px;
+min-width: 400px;
+gap: 24px;
+opacity: 0px;
+margin-top: 9rem;
+}
+.details{
+    color: #909090;
+    
+}
+.shopbtn{
+    width: Hug (191px)px;
+height: Hug (56px)px;
+padding: 16px 56px 16px 56px;
+gap: 8px;
+border-radius: 6px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background-color: #211C24;
+color: white;
+}
+.shopbtn:hover{
+    color: bisque;
+}
+.playstation{
+    display: flex;
+}
+.aacc{
+    display: flex;
+}
+.apple{
+    width: Fill (720px)px;
+    height: Hug (600px)px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.one{
+    display: flex;
+
+}
+.aa1{
+    font-family: Inter;
+    font-size: 49px;
+    font-weight: 500;
+    line-height: 40px;
+    text-align: left;
+    width: 338px;
+    height: 40px;
+    gap: 0px;
+    opacity: 0px;
+        
+}
+.aa2{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    width: 338px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+    color: #909090;
+        
+}
+.two{
+    display: flex;
+    background: #EDEDED;
+    width: 23rem
+    ;
+}
+.bbnte{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: -14rem;
+    
+}
+.bb1{
+    font-family: ;
+    font-size: 29px;
+    font-weight: ;
+    line-height: 40px;
+    text-align: left;
+    width: 150px;
+height: 120px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 29px;
+font-weight: ;
+line-height: 40px;
+text-align: left;
+margin-bottom: 0;
+}
+.bb2{
+    color: #909090;
+    margin-top: 0;
+    padding-top: 0;
+
+}
+.ccnte{
+    margin-left: -18.3rem;
+    margin-top: 2rem;
+}
+.three{
+    display: flex;
+    background-color: #353535;
+    ;
+
+}
+.cc1{
+    color:  #FFFFFF;
+    ;
+    font-family: Inter;
+font-size: 29px;
+font-weight: 300;
+line-height: 40px;
+text-align: left;
+font-family: Inter;
+font-size: 29px;
+font-weight: 500;
+line-height: 40px;
+text-align: left;
+width: 179px;
+height: 80px;
+gap: 0px;
+opacity: 0px;
+margin-bottom: 0;
+
+}
+.cc2{
+    color: #909090;
+    margin-top: 0;
+
+}
+.mac{
+    width: 41.8rem;
+height: Fixed (600px)px;
+padding: 44px 94px 44px 56px;
+gap: 1px;
+opacity: 0px;
+display: flex;
+background: #EDEDED;
+margin-left: rem;
+}
+.macdiv{
+    margin-top: 3rem;
+    width: 29rem;
+    margin-left: -16rem;
+}
+.dd1{
+    
+font-size: 64px;
+font-weight: 5;
+line-height: 56px;
+text-align: left;
+
+width: 360;
+height: 112px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.dd2{
+    color: #909090;
+    width: 22rem;
+}
+.dd{
+    margin-left: 9rem;
+    display: flex;
+    justify-content: flex-end;
+    padding-left: rem;
+}
+.shopnow{
+    width: Hug (191px)px;
+height: Hug (56px)px;
+padding: 16px 56px 16px 56px;
+gap: 8px;
+border-radius: 6px 6px 6px 6px;
+border:  3px 0px 0px 0px;
+opacity: 0px;
+State="Black Stroke";
+Icon=False;
+Button Text="Shop Now";
+border: 1px solid black;
+}
+.shopnow1{
+    width: Hug (191px)px;
+height: Hug (56px)px;
+padding: 16px 56px 16px 56px;
+gap: 8px;
+border-radius: 6px 6px 6px 6px;
+border:  3px 0px 0px 0px;
+opacity: 0px;
+State="Black Stroke";
+Icon=False;
+Button Text="Shop Now";
+border: 1px solid black;
+background-color: white;
+}
+.shopnow:hover{
+    color: bisque;
+}
+.browse{
+    width: Fill (1,440px)px;
+height: Hug (352px)px;
+padding: 80px 160px 80px 160px;
+gap: 32px;
+opacity: 0px;
+
+}
+.category{
+    display: flex;
+    justify-content: center;
+    width: Fill (1,120px)px;
+height: Hug (32px)px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+
+}
+.innercat{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0.01em;
+text-align: left;
+display: flex;
+justify-content: flex-start;
+align-items: flex-start;
+justify-items: center;
+margin-left: 0;
+padding-left: 0;
+
+}
+.arrowcat{
+    width: Hug (80px)px;
+height: Hug (32px)px;
+gap: 16px;
+opacity: 0px;
+margin-right: 0;
+padding-right: 0;
+margin-left: 52rem;
+margin-bottom: 0;
+padding-bottom: 0;
+margin-top: 2rem;
+}
+.phones{
+    width: Fill (1,120px)px;
+height: Hug (128px)px;
+gap: 32px;
+opacity: 0px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.new{
+    width: 70.8rem;
+    margin-left: 12.3rem;
+height: Hug (32px)px;
+gap: 32px;
+opacity: 0px;
+display: flex;
+justify-items: flex-start;
+margin-bottom: 1rem;
+}
+.nn{
+    text-decoration: underline;
+    width: 100px;
+    height: 0px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    color: #000000;
+    text-decoration: solid underline;
+    margin-top: 0.4rem;
+
+}
+.fea{
+    width: 159px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    color:#8B8B8B;
+    text-decoration: solid;
+
+}
+.best{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: center;
+    width: 86px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    color:#8B8B8B;
+    text-decoration: solid;
+
+}
+
+.pics{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 2rem;
+}
+.firstdiv{
+    display: flex;
+    width: Fill (1,120px)px;
+height: Hug (432px)px;
+gap: 16px;
+opacity: 0px;
+
+}
+.secdiv{
+    display: flex;
+    width: Fill (1,120px)px;
+height: Hug (432px)px;
+gap: 16px;
+opacity: 0px;
+
+}
+.ddiv{
+    Like=False;
+Show Button=true;
+Price="$900";
+Show Price=true;
+Product Description="Apple iPhone 14 Pro Max 128GB Deep Purple ";
+width: Fill (268px)px;
+height: Hug (432px)px;
+min-width: 200px;
+padding: 24px 16px 24px 16px;
+gap: 16px;
+border-radius: 9px 0px 0px 0px;
+opacity: 0px;
+background:  #F6F6F6;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+.heart{
+    margin-top: 0;
+    width: 32px;
+height: 32px;
+padding: 1.33px 1.33px 4px 1.33px;
+gap: 0px;
+opacity: 0px;
+margin-left: 13rem;
+
+}
+.onnn{
+    display: flex;
+    flex-direction: column;
+}
+.ooo{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: center;
+width: 236px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+margin-bottom: 0;
+}
+.dollar{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.buybtn{
+    width: Hug (188px)px;
+height: Hug (48px)px;
+padding: 12px 64px 12px 64px;
+gap: 8px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+background-color: #000000;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+justify-items: center;
+margin-right: 0;
+margin-top: 0;
+border-radius: 8px;
+}
+.popular{
+    display: flex;
+    width: Fill (1,840px)px;
+height: Hug (640px)px;
+gap: 0px;
+opacity: 0px;
+margin-top: 2rem;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.Products{
+   width: 27rem;
+}
+.Products1{
+    background: #EAEAEA;
+    width: 27rem;
+
+}
+.Products2{
+    background-color: #2C2C2C;
+    width: 27rem;
+
+
+
+
+}
+.pp{
+    font-family: Inter;
+    font-size: 33px;
+    font-weight: 300;
+    line-height: 48px;
+    text-align: left;
+    width: 296px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+
+}
+.pp1{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #909090;
+    
+}
+.four{
+    margin-left: 3rem;
+}
+.four1{
+    margin-left: 3rem;
+    margin-top: -5.2rem;
+}
+.PP2{
+    color: #FFFFFF;
+
+}
+.four2{
+    margin-left: 3rem;
+    margin-top: -1rem;
+}
+.finaln{
+    width: Fill (1,440px)px;
+height: Hug (656px)px;
+padding: 80px 160px 80px 160px;
+gap: 32px;
+opacity: 0px;
+
+}
+.llla{
+    display: flex;
+}
+.lllo{
+    display: flex;
+}
+.lastmost{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: Fill (1,120px)px;
+height: Hug (432px)px;
+gap: 16px;
+opacity: 0px;
+
+}
+.lastmost1{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: center;
+width: 236px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+margin-bottom: 0;
+margin-top: 0;
+}
+.lastmost2{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: center;
+width: 236px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+margin-top: 0;
+margin-bottom: 0;
+}
+.disc{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 100;
+line-height: 22px;
+width: 40rem;
+align-items: flex-start;
+justify-items: flex-start;
+justify-content: flex-start;
+margin-left: 2.5rem;
+}
+.lastmost3{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+    background: #F6F6F6;
+
+    width: Fill (268px)px;
+height: Hug (432px)px;
+min-width: 200px;
+padding: 24px 16px 24px 16px;
+gap: 16px;
+border-radius: 9px 0px 0px 0px;
+opacity: 0px;
+
+}
+.lastmost31{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+    background: #F6F6F6;
+    margin-left: 1rem;
+    width: Fill (268px)px;
+height: Hug (432px)px;
+min-width: 200px;
+padding: 24px 16px 24px 16px;
+gap: 16px;
+border-radius: 9px 0px 0px 0px;
+opacity: 0px;
+
+}
+.buybtn5{
+    width: 11.5rem;
+height: Hug (48px)px;
+padding: 12px 64px 12px 64px;
+gap: 8px;
+border-radius: 8px;
+opacity: 0px;
+background: #000000;
+color: white;
+
+}
+.bannerdiv{
+    width: Fill (1,440px)px;
+    height: Fixed (448px)px;
+    gap: 8px;
+    opacity: 0px;
+    
+}
+.bann{
+    width: 95.9rem;
+}
+.exact{
+    background: #000000;
+    width: Fill (1,440px)px;
+height: Hug (504px)px;
+padding: 104px 160px 104px 160px;
+gap: 34px;
+opacity: 0px;
+margin-top: -1rem;
+
+}
+.exact1{
+    display: flex;
+    width: Fill (1,120px)px;
+height: 20rem;
+
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+
+
+}
+.exact2{
+    color:  #CFCFCF;
+    width: Fixed (295.5px)px;
+height: Hug (256px)px;
+gap: 8px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+justify-items: flex-start;
+align-content: center;
+ margin-top: 0;
+ margin-left: 15rem;
+}
+.ww{
+    width: 21rem;
+}
+.exact3{
+    color:  #CFCFCF;
+
+    height: Hug (94.87px)px;
+    gap: 24px;
+    opacity: 0px;
+    margin-top: 2rem;
+    
+}
+.ss{
+    margin-left: 2.2rem;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+margin-bottom: 0;
+}
+.aa{
+    margin-left: 2.2rem;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 16px;
+text-align: left;
+margin-bottom: 0;
+
+}
+.airpp{
+    visibility: hidden;
+}
+.booo{
+    visibility: hidden;
+}
+.hasee{
+    visibility: hidden;
+}
+.muh{
+    margin-left: -12rem;
+}
+.dd9{
+    visibility: hidden;
+}
+@media (max-width:575px){
+
+    .nav{
+        width: Fixed (375px)px;
+height: Hug (88px)px;
+padding: 24px 16px 24px 16px;
+gap: 0px;
+border: 0px 0px 1px 0px;
+justify: space-between;
+opacity: 0px;
+
+    }
+
+    .searchbtn{
+        visibility: hidden;
+    }
+    .navbar{
+        visibility: hidden;
+
+    }
+    .photodiv{
+        visibility: hidden;
+
+    }
+
+    .burger{
+        visibility: visible;
+        margin-right: rem;
+        margin-left: 0;
+    }
+    .banner{
+        width: Fixed (375px)px;
+height: 100rem
+padding: 88px 16px 0px 16px;
+gap: 48px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+    }
+    .beyond{
+        display: flex;
+flex-direction: column;
+justify-content: center;
+align-content: center;
+justify-items: center;
+align-items: center;
+height: 51rem;
+    }
+    .leftdiv{
+        width: Fill (343px)px;
+height: Hug (344px)px;
+gap: 32px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+justify-items: center;
+align-items: center;
+align-content: center;
+    }
+.pppo{
+    width: 20rem;
+    height: 20rem;
+   
+    
+}
+
+    .ppo{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        justify-items: center;
+        align-items: center;
+        width: 343px;
+height: 144px;
+gap: 0px;
+opacity: 0px;
+
+    }
+    .shopbtn{
+        width: Hug (191px)px;
+height: Hug (56px)px;
+padding: 16px 56px 16px 56px;
+gap: 8px;
+border-radius: 6px ;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+    }
+    .ipho{
+        
+        width: 321px;
+        height: 289px;
+        left: 11px;
+        gap: 0px;
+        opacity: 0px;
+        
+
+
+    }
+    .playstation{
+        display: flex;
+        flex-direction: column;
+    }
+    .apple{
+
+    }
+    .aacc{
+        display: flex;
+        flex-direction: column;
+    }
+    .two{
+        display: flex;
+        flex-direction: column;
+        width: 35.5rem;
+        height: 20rem;
+    }
+    .bb{
+        visibility: hidden;
+    }
+    .airpp{
+        visibility: visible;
+        margin-top: -60rem;
+        height: 10rem;
+        width: 10rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
+        margin-left: 12rem;
+    }
+    .bbnte{
+        margin-top: rem;
+        margin-left: 11rem;
+    }
+    .bb1{
+        width: 20rem;
+        margin-bottom: 0;
+        margin-left: ;
+    }
+    .bb2{
+        width: 10rem;
+        margin-top: -4rem;
+    }
+    .cc{
+        visibility: hidden;
+    }
+    .booo{
+        visibility: visible;
+        width: 14rem;
+        height: 12rem;
+        margin-left: -3rem;
+    }
+    .ccnte{
+        margin-top: 9rem;
+        width: ;
+        margin-left: rem;
+    }
+    .cc1{
+        width: 20rem;
+        margin-left: 4rem;
+    }
+    .cc2{
+        width: rem;
+        margin-left: 4rem;
+    }
+    .three{
+width: 35.5rem;
+    }
+    .hasee{
+        visibility: visible;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -19rem;
+        justify-items: center;
+    }
+    .aa22{
+        visibility: hidden;
+    }
+    .muh{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        justify-items: center;
+
+margin-left: 3rem;    }
+    .one{
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        justify-items: center;
+    }
+    .mac{
+        display: flex;
+        flex-direction: column;
+    }
+    .dd{
+        height: 20rem;
+        width: 20rem;
+    }
+    .dd9{
+        visibility: visible;
+        width: 20rem;
+        height: 10rem;
+         margin-left: 4rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        justify-items: center;
+
+    }
+    .mac{
+        height: 32rem;
+        width: 26.1rem;
+    }
+    .macdiv{
+        margin-left: 5rem;
+        width: 20rem;
+    }
+    .dd{
+        visibility: hidden;
+    }
+    .dd2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        justify-items: center;
+    }
+    .browse{
+        width: Fixed (375px)px;
+height: Hug (624px)px;
+padding: 64px 16px 64px 16px;
+
+opacity: 0px;
+
+    }
+    .category{
+        width: Fill (343px)px;
+height: Hug (32px)px;
+gap: 0px;
+justify: space-between;
+opacity: 0px;
+
+    }
+    .innercat{
+        width: 20px;
+height: 3px;
+gap: 0px;
+opacity: 0px;
+margin-left: 20rem;
+margin-bottom: 2rem;
+    }
+    .brow{
+        width: rem;
+            }
+    .arrowcat{
+        width: Hug (80px)px;
+height: Hug (32px)px;
+gap: 16px;
+opacity: 0px;
+margin-left: rem;
+margin-right: 40rem;
+    }
+    .burger{
+        margin-left: -1rem;
+    }
+    .firstdiv{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .secdiv{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .nn{
+        text-decoration: underline;
+    }
+    .new{
+        width: 30rem;
+        margin-left: 0;
+    }
+    .shopnow{
+        margin-left: 4rem;
+    }
+
+.popular{
+  
+width: Fixed (375px)px;
+height: Hug (723px)px;
+min-width: 280px;
+padding: 56px 32px 56px 32px;
+gap: 48px;
+opacity: 0px;
+flex-wrap: wrap;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+align-content: center;
+justify-items: center;
+
+}
+.Products{
+    width: Fill (311px)px;
+height: Hug (555px)px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+align-content: center;
+justify-items: center;
+
+}
+.Products2{
+    width: 35rem;
+height: Hug (555px)px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+align-content: center;
+justify-items: center;
+
+}
+.Products1{
+    width: 35rem;
+height: Hug (555px)px;
+gap: 16px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+align-content: center;
+justify-items: center;
+
+}
+.shopnow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -0.3rem;
+}
+.four2{
+    margin-top: -7rem;
+}
+
+.four{
+    margin-top: -3rem;
+}
+.four1{
+    margin-top: -7rem;
+}
+.category{
+    width: 30rem;
+}
+.disc{
+    margin-left: -8rem;
+    width: 30rem;
+}
+.lastmost{
+    display: flex;
+    flex-wrap: wrap;
+    width: Fill (343px)px;
+height: Hug (720px)px;
+gap: 16px;
+opacity: 0px;
+
+}
+.bannerdiv{
+    width: Fixed (375px)px;
+    height: Hug (512px)px;
+    padding: 104px 16px 104px 16px;
+    gap: 8px;
+    opacity: 0px;
+    margin-top: -9rem;
+}
+.bann{
+    margin-top: 0;
+    width: 35.5rem;
+    margin-left: -1rem;
+    height: 20rem;
+}
+.exact{
+    width: 15.5rem;
+    height: 60rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    height: 60rem;
+}
+.ww{
+    margin-left: 3rem;
+}
+.exact1{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+align-content: center;
+justify-items: center;
+height: 60rem;
+margin-top: -14rem;
+}
+.exact2{
+    margin-left: -3rem;
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+align-content: center;
+justify-items: center;
+}
+.llogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    margin-left: 10rem;
+}
+.goa{
+    width: 30rem;
+    margin-top: 5rem;
+}
+.socio{
+    
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+align-content: center;
+justify-items: center;
+margin-left: 3rem;
+}
+.ss{
+    margin-left: 0;
+}
+.aa{
+    margin-left: 0;
+}
+
+}
